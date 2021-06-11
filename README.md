@@ -1,10 +1,10 @@
 # Bootstrap BootCamp Website
 
 **Desktop Design**
-![Desktop preview for Bootstrap BootCamp Website](./design/desktop-design.jpg)
+[Desktop preview for Bootstrap BootCamp Website](./design/desktop-design.jpg)
 
 **Mobile Design**
-![Mobile preview for Bootstrap BootCamp Website](./design/mobile-design.jpg)
+[Mobile preview for Bootstrap BootCamp Website](./design/mobile-design.jpg)
 
 Website - [Bootstrap Website Link](https://bootstrap-bootcamp.netlify.app)
 
@@ -13,7 +13,8 @@ Website - [Bootstrap Website Link](https://bootstrap-bootcamp.netlify.app)
 Thanks for checking out this website.
 
 This is a website coded based on a tutorial video on Bottstrap 5 made by *Brad Traversy*
-https://www.youtube.com/watch?v=4sosXZsdy-s
+
+Here is a [link](https://www.youtube.com/watch?v=4sosXZsdy-s) to the video.
 
 Brad is a tutor who teaches anything that has to do with software development and he's very wonderful at what he does.
 
