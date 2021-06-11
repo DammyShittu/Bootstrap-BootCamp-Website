@@ -1,12 +1,12 @@
 # Bootstrap BootCamp Website
 
 **Desktop Design**
-[Desktop preview for Bootstrap BootCamp Website](./design/desktop-design.jpg)
+[Desktop preview for Bootstrap BootCamp Website](./design/desktop-design.png)
 
 **Mobile Design**
-[Mobile preview for Bootstrap BootCamp Website](./design/mobile-design.jpg)
+[Mobile preview for Bootstrap BootCamp Website](./design/mobile-design.png)
 
-Website - [Bootstrap Website Link](https://bootstrap-bootcamp.netlify.app)
+Website - https://bootstrap-bootcamp.netlify.app
 
 ## Welcome! 👋
 
